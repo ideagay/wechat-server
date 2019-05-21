@@ -1,2 +1,3 @@
 # wechat-server
-wechat-server
+
+聊天室应用服务端
